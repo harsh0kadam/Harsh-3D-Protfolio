@@ -11,7 +11,7 @@ import {
     
     contact,
     css,
-    estate,
+  
     express,
     git,
     github,
@@ -174,7 +174,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: '/contact',
+        link: 'https://app.luminpdf.com/viewer/6596690fdc8620e0471d8e4f',
     },
     {
         name: 'GitHub',
